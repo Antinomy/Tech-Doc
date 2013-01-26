@@ -1,0 +1,27 @@
+/Conf on about Editor Setting/
+
+* LoadConfFile
+;load conf file not in defalult path
+(load-file "D:/emacs-24.2/.emacs")
+
+* ShowLineNumbers
+;;; show line numbers in buffer  
+;;; run M-x linum-mode  
+(require 'linum)    
+;;; show line numbers in all buffers  
+;;; run M-x global-linum-mode  
+(global-linum-mode t)
+
+* CursorType
+(setq-default cursor-type 'bar) 
+
+* SimpleY/N
+(fset 'yes-or-no-p 'y-or-n-p)
+
+* DiableAutoSave
+;diable auto-save
+;(setq auto-save-default nil)
+
+* DiableAutoBankup
+;disable backup
+(setq backup-inhibited t)

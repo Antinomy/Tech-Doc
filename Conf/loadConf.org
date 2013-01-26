@@ -1,2 +1,0 @@
-;load conf file not in defalult path
-(load-file "D:/emacs-24.2/.emacs")
