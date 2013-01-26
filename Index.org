@@ -1,13 +1,19 @@
 /Emacs Conf Tip/
 
-/Editor Setting/
-*Load Conf File* file:./Conf/EditorSetting.org::*LoadConfFile
-*Show Line Numbers* file:./Conf/EditorSetting.org::*ShowLineNumbers
-*Cursor Type* file:./Conf/EditorSetting.org::*CursorType
-*Simple Y/N* file:./Conf/EditorSetting.org::*SimpleY/N
-*Diable Auto Save* file:./Conf/EditorSetting.org::*DiableAutoSave
-*Disable Auto Backup* file:./Conf/EditorSetting.org::*DiableAutoBankup
+* Editor Setting
+** Load Conf File 
+file:./Conf/EditorSetting.org::*LoadConfFile
+** Show Line Numbers 
+file:./Conf/EditorSetting.org::*ShowLineNumbers
+** Cursor Type 
+file:./Conf/EditorSetting.org::*CursorType
+** Simple Y/N 
+file:./Conf/EditorSetting.org::*SimpleY/N
+** Diable Auto Save 
+file:./Conf/EditorSetting.org::*DiableAutoSave
+** Disable Auto Backup
+file:./Conf/EditorSetting.org::*DiableAutoBankup
 
-/Mode Setting/
-*Default CUA Mode* file:./Conf/ModeSetting.org::*CUAMode
+* Mode Setting
+** Default CUA Mode* file:./Conf/ModeSetting.org::*CUAMode
 
