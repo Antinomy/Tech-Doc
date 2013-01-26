@@ -1,0 +1,3 @@
+/Emacs Conf Tip/
+
+Load Conf File file:./Conf/loadConf.org
