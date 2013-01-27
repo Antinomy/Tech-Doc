@@ -1,26 +1,27 @@
-/Emacs Conf Tip/
+/Store Tech Doc Here/
 
-* Editor Setting
+* Tech Link
+** Java
+[[http://dreamhead.blogbus.com/logs/226738756.html][Update Java Lib]]
 
-** Load Conf File 
-file:./EmacsConfTips/EditorSetting.org::*LoadConfFile
+* Emacs Conf Tip
+** Editor Setting 
+[[file:./EmacsConfTips/EditorSetting.org::*LoadConfFile][Load Conf File]]
+[[file:./EmacsConfTips/EditorSetting.org::*ShowLineNumbers][Show Line Numbers]]
 
-** Show Line Numbers 
-file:./EmacsConfTips/EditorSetting.org::*ShowLineNumbers
-
-** Cursor Type 
+*** Cursor Type 
 file:./EmacsConfTips/EditorSetting.org::*CursorType
 
-** Simple Y/N 
+*** Simple Y/N 
 file:./EmacsConfTips/EditorSetting.org::*SimpleY/N
 
-** Diable Auto Save 
+*** Diable Auto Save 
 file:./EmacsConfTips/EditorSetting.org::*DiableAutoSave
 
-** Disable Auto Backup
+*** Disable Auto Backup
 file:./EmacsConfTips/EditorSetting.org::*DiableAutoBankup
 
-* Mode Setting
+** Mode Setting
 
-** Default CUA Mode* file:./EmacsConfTips/ModeSetting.org::*CUAMode
+*** Default CUA Mode file:./EmacsConfTips/ModeSetting.org::*CUAMode
 
