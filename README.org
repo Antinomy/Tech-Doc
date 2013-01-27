@@ -1,0 +1,26 @@
+/Emacs Conf Tip/
+
+* Editor Setting
+
+** Load Conf File 
+file:./EmacsConfTips/EditorSetting.org::*LoadConfFile
+
+** Show Line Numbers 
+file:./EmacsConfTips/EditorSetting.org::*ShowLineNumbers
+
+** Cursor Type 
+file:./EmacsConfTips/EditorSetting.org::*CursorType
+
+** Simple Y/N 
+file:./EmacsConfTips/EditorSetting.org::*SimpleY/N
+
+** Diable Auto Save 
+file:./EmacsConfTips/EditorSetting.org::*DiableAutoSave
+
+** Disable Auto Backup
+file:./EmacsConfTips/EditorSetting.org::*DiableAutoBankup
+
+* Mode Setting
+
+** Default CUA Mode* file:./EmacsConfTips/ModeSetting.org::*CUAMode
+
