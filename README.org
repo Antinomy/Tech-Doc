@@ -3,6 +3,7 @@
 * Tech Link
 ** Java
 [[http://dreamhead.blogbus.com/logs/226738756.html][Update Java Lib]]
+[[http://www.2cto.com/kf/201208/151826.html][SSL Info]]
 
 * Emacs Conf Tip
 /Supprot by open link with emacs/
