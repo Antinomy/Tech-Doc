@@ -6,10 +6,10 @@
 [[http://www.2cto.com/kf/201208/151826.html][SSL Info]]
 
 * Gradle
-  http://wldandan.github.io/blog/2013/01/23/gradle-learning-one/
-  http://wldandan.github.io/blog/2013/01/23/gradle-learning-two/
-  http://wldandan.github.io/blog/2013/01/24/gradle-learning-three/
-  http://wldandan.github.io/blog/2013/01/25/gradle-learning-four/
+  [[http://wldandan.github.io/blog/2013/01/23/gradle-learning-one/][1]
+  [[http://wldandan.github.io/blog/2013/01/23/gradle-learning-two/][2]]
+  [[http://wldandan.github.io/blog/2013/01/24/gradle-learning-three/][3]]
+  [[http://wldandan.github.io/blog/2013/01/25/gradle-learning-four/][4]]
   
 * Emacs Conf Tip
 /Supprot by open link with emacs/
