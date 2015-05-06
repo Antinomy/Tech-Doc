@@ -27,4 +27,7 @@ TODO keywords to indicate different sequential states in the process of working 
 ** 禁用下划线转义
 #+OPTIONS: ^:nil
 
+* 标签
+#+TAGS: laptop car pc sailboat
+
 
