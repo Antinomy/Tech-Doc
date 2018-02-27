@@ -5,6 +5,7 @@ TODO keywords to indicate different sequential states in the process of working 
      (setq org-todo-keywords
        '((sequence "TODO" "DOING" "|" "DONE" )))
 
+#+SEQ_TODO: TODO DOING DONE
 
 * 文档元数据
 
